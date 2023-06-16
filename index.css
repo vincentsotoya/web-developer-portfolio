@@ -2,14 +2,23 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-}
-
-.dp1 {
-	background-color: skyblue;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .services {
 	background-color:;
+}
+
+#navbar {
+	background-color:#34302C;
+	color: white;
+}
+
+#about-me {
+	text-align: center;
+	border: solid white 2px;
+	border-radius: 5%;
+	padding: 40px;
 }
 
 h1 {
@@ -17,6 +26,24 @@ h1 {
 	text-align: center;
 	font-weight: bolder;
 	padding-top: 20px;
+}
+
+button {
+	padding: 10px;
+	margin: 10px;
+	border: solid black;
+	border-radius: 10px;
+	background-color: #34302C;
+	text-decoration: none;
+}
+
+h3	{
+	font-family: 'Space Grotesk', sans-serif;
+	font-weight: bold;
+}
+
+span {
+	color: ;
 }
 
 .col {
@@ -36,4 +63,12 @@ body {
 
 #contact-section {
 	background-color: #765F40;
+}
+
+.contact-bg {
+	background-color: #CAC0B3;
+}
+
+.footer {
+	background-color: #CAC0B3;
 }
