@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.dp1 {
+	background-color: skyblue;
+}
+
+.services {
+	background-color:;
+}
+
+h1 {
+	font-family: 'Space Grotesk', sans-serif;
+	text-align: center;
+	font-weight: bolder;
+	padding-top: 20px;
+}
+
+.col {
+	padding: 30px;
+	margin: 30px;
+	border: solid;
+	border-radius: 50%;
+	background-color: ;
+}
+
+body {
+	background-color: #CAC0B3;
+}
+#projects {
+	background-color: #765F40;
+}
+
+#contact-section {
+	background-color: #765F40;
+}
